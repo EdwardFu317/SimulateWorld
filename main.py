@@ -32,6 +32,8 @@ class Grass:
         self.x = x
         self.y = y
         self.growthState = growthState
+        self.symbol = '♣'
+        
         
     
     
